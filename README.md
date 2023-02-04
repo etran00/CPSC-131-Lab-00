@@ -1,6 +1,6 @@
-# Lab Week 0 Submission
+# Homework 1 - Git Practice
 
-My submission for CPSC-131, Section 07, Lab Week 0
+My submission for CPSC-131, Section 07, Homework Week 1
 
 # My Information
 
