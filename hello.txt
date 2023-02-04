@@ -1,2 +1,3 @@
 Hello! My name is Elton Tran.
 Linux terminal is brand new to me and very complicated!
+I can't seem to get the git config points, but I will keep trying!
